@@ -22,10 +22,10 @@ Having completed my original objective, Steve is curious to see if the code can 
 ![Output Arrays](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%203.png)
 ![Output Arrays Loop](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%204.png)
  
- -- and then initiating a second "for loop" that looped through the tickerIndex
+   - and then initiating a second "for loop" that looped through the tickerIndex
 ![Loop through tickerIndex](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%205.png)
 
--- ultimately allowing a third "for loop" that returned the performance metrics for all stocks.
+   - ultimately allowing a third "for loop" that returned the performance metrics for all stocks.
 ![Output Arrays For Loops](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%206.png)
 
 
