@@ -28,6 +28,13 @@ Having completed my original objective, Steve is curious to see if the code can 
    - ultimately allowing a third "for loop" that returned the performance metrics for all stocks.
 ![Output Arrays For Loops](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%206.png)
 
+- In the end the augmented VBA script perfomed faster than the original VBA script, even though it is collecting more data:
+   - Original VBA Script
+   ![Original VBA Script Runtime](https://github.com/Caracalla1081/stock-analysis/blob/d049e23990da314c32616af051a015b559702d30/Resources/VBA_Challenge_All_Stocks_2018.png)
+   - Augmented VBA Script
+   ![Augmented 2017 VBA Script Runtime](https://github.com/Caracalla1081/stock-analysis/blob/d049e23990da314c32616af051a015b559702d30/Resources/VBA_Challenge_2017.png)
+   ![Augmented 2018 VBA Script Runtime](https://github.com/Caracalla1081/stock-analysis/blob/d049e23990da314c32616af051a015b559702d30/Resources/VBA_Challenge_2018.png)
+
 
 
 ## Summary
