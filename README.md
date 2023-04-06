@@ -38,3 +38,9 @@ Having completed my original objective, Steve is curious to see if the code can 
 
 
 ## Summary
+### Advantages vs. Disadvantages of Refactoring Code
+- There are several advantages and disadvantages to refactoring VBA code, and depending on ones level of expertise in working with VBA these may differ amongst users. In this experience I found that some advantages are refactoring code can make code run more efficiently by arranging it in a way that eliminates the need for operations like "for loops" to run more unnecessarily, versus setting a "for loop" to an array and then the arrays are where the "for loops" run within; it can reduce runtime for Macros; and one canan add conditional or formatting code to make the output more accessible for the intended user(s)
+- Some disadvantages could be that after augmenting ones code it can be harder for others to work with, or augment themselves if not properly documented. Also, if not documented well, the creator can themselves lose track with changes implemented.
+
+### Advantages vs. Disadvantages of this specific VBA code refactoring
+- Regarding this specific project, some advantages and disadvantages that I found were the refactored code provided an advantage in the code's runtime, as the augmented code ran faster than the original, whereas a disadvantage to the refactored code is that for the level of experince I had in working on this project the code could have ran up against deadlines to be completed. More simply put, a disadvantage is one should think about the time and effort it would take to refactor the code, and still accomplish their goal in a timely manner, or is the effort worth the reward.
