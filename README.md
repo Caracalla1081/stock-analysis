@@ -7,8 +7,7 @@ My original objective was to assist Steve's effort by analyzing the data on stoc
 Having completed my original objective, Steve is curious to see if the code can be used to analyze the entire stock market dataset, and whether or not it would take too long to execute. I will refactor the code to loop through all the data provided and determine if refactoring the code increased the its efficiency.
 
 ## Results
-- My original VBA script to capture all DAQO stock was focused on only that single stock, so therefore instead of looping and capturing all stocks the range value was set to "DAQO(Ticker:DQ)":
-![Range Value Set to DAQO](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/All_Stocks%20_BA_Code2.png)
+- My original VBA script to capture all DAQO stock was focused on only that single stock, so therefore instead of looping and capturing all stocks the range value was set to "DAQO(Ticker:DQ)":![Range Value Set to DAQO](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/All_Stocks%20_BA_Code2.png)
 
 - The augmented script set the range value to "All Stocks(" + yearValue + ")", this allowes us to capture all stocks in our loops:
 ![Range Value Set to All Stocks](https://github.com/Caracalla1081/stock-analysis/blob/e3d4db1ccd992b7e90c6939bce33d35bcc2be9a5/Resources/VBA_Challenge%201.png)
